@@ -1,7 +1,7 @@
 # Chrome App 만들어보기
 
 ## Concept
-- [Papier]()앱을 계정연동하여 모든 기기의 chrome에서 내용을 확인할 수 있도록 하는 것
+- [Papier](https://papier.app/)앱을 계정연동하여 모든 기기의 chrome에서 내용을 확인할 수 있도록 하는 것
 
 ## Plan
 - Step 1. 개인 서버를 활용하여 별도의 로그인 인증 없이 메모를 연동
