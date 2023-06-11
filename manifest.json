@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "version": "0.1.0",
+    "name": "JOGI",
+    "description": "JOGI the finest memopad",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": [
+        "storage",
+        "activeTab",
+        "scripting"
+    ],
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "options_page": "options.html"
+}
